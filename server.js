@@ -1,3 +1,9 @@
+/*
+Name: Chris Smisek
+email: cjsmisek@gmail.com
+Last Revised: 2/28/18
+*/
+
 var http = require('http');
 var url = require('url');
 var fs = require('fs');
