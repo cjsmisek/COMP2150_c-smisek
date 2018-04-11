@@ -1,0 +1,32 @@
+{
+    "cars" : {
+        "car" : [
+        {
+            "model" : "Shelby GT350R",
+            "mpg" : [
+                {
+                    "city" : 14,
+                    "hwy" : 21
+                }],
+            "year" : 2017
+        },
+        {
+            "model" : "Mustang GT",
+            "mpg" : [
+                {
+                    "city" : 15,
+                    "hwy" : 25
+                }],
+            "year" : 2018
+        },
+        {
+            "model" : "Dodge Challenger SRT Demon",
+            "mpg" : [
+                {
+                    "city" : 13,
+                    "hwy" : 22
+                }],
+            "year" : 2018
+        }]
+    }
+}
