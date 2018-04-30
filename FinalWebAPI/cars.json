@@ -1,0 +1,9 @@
+{   
+    "@context" : "http://schema.org/",
+    "@type" : "Car",
+    "model" : "Shelby GT350",
+    "manufacturer" : "Ford ",
+    "modelDate" : "2013",
+    "bodyType" : "Coupe",
+    "url": "http://localhost:8000/01/"
+}

@@ -1,0 +1,15 @@
+{
+    "@context" : "http://schema.org/",
+    "@type": "ItemList",
+    "name": "List of Cars",
+    "url": "http://localhost:8000/",
+    "itemListElement": [{
+        "@type" : "Car",
+        "model" : "Shelby GT350",
+        "url": "http://localhost:8000/01/"
+    },{
+        "@type" : "Car",
+        "model" : "SRT Demon",
+        "url": "http://localhost:8000/02/"
+    }]
+}
